@@ -1,6 +1,8 @@
 const express = require('express');
 const path = require('path');
 const app = express();
+const dotenv = require("dotenv")
+dotenv.config()
 
 // Serve static files from the Vite build directory located in the client/dist folder
 app.use(express.static(path.join(__dirname, '../client', 'dist')));

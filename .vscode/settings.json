@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/2bbee9b2-96f6-4003-a51b-58e3f421088f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/careerwavesinstitute",
+  "appService.deploySubpath": "."
+}
